@@ -1,0 +1,2 @@
+env:
+  REDIS_URI: "redis://redis-svc:6379/0"
